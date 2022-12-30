@@ -1,1 +1,1 @@
-# catkey-guidelines
+# catkey-legal
